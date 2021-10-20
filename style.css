@@ -1,0 +1,31 @@
+.home{
+    width: 50%;
+    align: center;
+    padding-left: 200px;
+    background-color: bisque;
+}
+div{
+    background-color: DarkSalmon;
+}
+.image{
+    width: 100%;
+    height: 100%;
+}
+nav{
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: aqua;
+    color: white;
+}
+body{
+    background-color: DarkSalmon;
+}
+.hovering:hover{
+    background-color: sandybrown;
+}
